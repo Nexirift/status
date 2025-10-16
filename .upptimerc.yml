@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nexirift.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Nexirift/media-kit/main/nexirift/logo-128x.png
   name: Nexirift Status
   introTitle: Status page for Nexirift
   introMessage: This is a status page for Nexirift, a decentralized social media platform.
