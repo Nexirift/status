@@ -4,17 +4,19 @@
     "url": "https://nexirift.com",
     "icon": "https://icons.duckduckgo.com/ip3/nexirift.com.ico",
     "slug": "nexirift-primary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 246,
-    "timeWeek": 233,
-    "timeMonth": 221,
-    "timeYear": 221,
-    "dailyMinutesDown": {}
+    "time": 263,
+    "timeDay": 594,
+    "timeWeek": 321,
+    "timeMonth": 263,
+    "timeYear": 263,
+    "dailyMinutesDown": {
+      "2025-10-29": 0
+    }
   }
 ]
