@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexirift.com.ico",
     "slug": "nexirift-primary",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 594,
-    "timeWeek": 321,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "uptime": "95.37%",
+    "uptimeDay": "37.39%",
+    "uptimeWeek": "91.06%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "95.37%",
+    "time": 260,
+    "timeDay": 576,
+    "timeWeek": 299,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-10-29": 0
+      "2025-10-30": 79,
+      "2025-10-29": 823
     }
   }
 ]
