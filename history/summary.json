@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexirift.com.ico",
     "slug": "nexirift-primary",
     "status": "up",
-    "uptime": "83.49%",
+    "uptime": "83.50%",
     "uptimeDay": "97.80%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "83.49%",
-    "time": 1029,
-    "timeDay": 882,
-    "timeWeek": 1085,
-    "timeMonth": 1933,
-    "timeYear": 1029,
+    "uptimeYear": "83.50%",
+    "time": 1032,
+    "timeDay": 996,
+    "timeWeek": 1106,
+    "timeMonth": 1918,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2026-01-04": 32,
       "2025-12-29": 30,
@@ -36,5 +36,23 @@
       "2025-10-30": 1440,
       "2025-10-29": 823
     }
+  },
+  {
+    "name": "Captcha (Primary)",
+    "url": "https://captcha.nexirift.com",
+    "icon": "https://icons.duckduckgo.com/ip3/captcha.nexirift.com.ico",
+    "slug": "captcha-primary",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1579,
+    "timeDay": 1579,
+    "timeWeek": 1579,
+    "timeMonth": 1579,
+    "timeYear": 1579,
+    "dailyMinutesDown": {}
   }
 ]
