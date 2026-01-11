@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexirift.com.ico",
     "slug": "nexirift-primary",
     "status": "up",
-    "uptime": "84.75%",
+    "uptime": "84.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "84.75%",
+    "uptimeYear": "84.82%",
     "time": 1032,
     "timeDay": 1168,
-    "timeWeek": 1009,
+    "timeWeek": 1014,
     "timeMonth": 2009,
     "timeYear": 1032,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
     "url": "https://captcha.nexirift.com",
     "icon": "https://icons.duckduckgo.com/ip3/captcha.nexirift.com.ico",
     "slug": "captcha-primary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 1648,
     "timeMonth": 1648,
     "timeYear": 1648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 0
+    }
   }
 ]
