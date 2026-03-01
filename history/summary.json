@@ -11,9 +11,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "90.18%",
     "time": 1337,
-    "timeDay": 1237,
-    "timeWeek": 1265,
-    "timeMonth": 1703,
+    "timeDay": 1275,
+    "timeWeek": 1271,
+    "timeMonth": 1691,
     "timeYear": 1337,
     "dailyMinutesDown": {
       "2026-02-10": 57,
@@ -39,34 +39,6 @@
       "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 823
-    }
-  },
-  {
-    "name": "Captcha (Primary)",
-    "url": "https://captcha.nexirift.com",
-    "icon": "https://icons.duckduckgo.com/ip3/captcha.nexirift.com.ico",
-    "slug": "captcha-primary",
-    "status": "down",
-    "uptime": "96.29%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "96.29%",
-    "time": 2090,
-    "timeDay": 1389,
-    "timeWeek": 1600,
-    "timeMonth": 1593,
-    "timeYear": 2090,
-    "dailyMinutesDown": {
-      "2026-03-01": 0,
-      "2026-02-28": 18,
-      "2026-02-06": 43,
-      "2026-02-04": 52,
-      "2026-02-01": 47,
-      "2026-01-31": 64,
-      "2026-01-13": 578,
-      "2026-01-12": 1440,
-      "2026-01-11": 749
     }
   }
 ]
