@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexirift.com.ico",
     "slug": "nexirift-primary",
     "status": "up",
-    "uptime": "95.91%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "95.91%",
+    "uptime": "95.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "95.92%",
     "time": 1257,
     "timeDay": 1060,
     "timeWeek": 1151,
@@ -45,8 +45,7 @@
       "2026-04-24": 72,
       "2026-06-03": 22,
       "2026-06-02": 39,
-      "2026-09-09": 265,
-      "2026-09-17": 2
+      "2026-09-09": 265
     }
   }
 ]
